@@ -9,4 +9,3 @@ let media = (n1+n2+n3+n4)/4
 console.log (media)
 //no terminal colocar node . pra rodar tudo ou usar node "nome da pasta"/"nome do arquivo" 
 
-console.log ("eu estive aqui")
