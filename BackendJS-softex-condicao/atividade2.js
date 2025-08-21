@@ -15,7 +15,7 @@ n2 = Number (n2);
 let respostamais = (n1 + n2)
 let respostamenos = (n1-n2)
 let respostamulti = (n1*n2)
-let repostadivi = (n1/n2)
+let respostadivi = (n1/n2)
 
 
 
