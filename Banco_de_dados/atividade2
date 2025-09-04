@@ -1,0 +1,7 @@
+Simples: nome, cidade, código, idade, função, razão social, cnpj, rua, bairro, cep, cidade, complemento
+
+Composto: endereço
+
+Multivalorado: telefone
+
+Monovalorado: cnpj, codigo, idade

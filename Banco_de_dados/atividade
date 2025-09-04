@@ -1,0 +1,7 @@
+Simples: cpf, nome, idade, rua, bairro, cidade, estado, complementos, codigo, nome, matrícula
+
+Composto: endereco, 
+
+Multivalorado: telefone,
+
+Monovalorado: cpf, matrícula, cep, idade
